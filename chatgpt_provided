@@ -1,0 +1,109 @@
+  
+===========================================with queizes===================================
+   Including daily quizzes and assignments in your React boot camp can be an excellent way to reinforce learning and assess participants' understanding. Here's a modified curriculum with the addition of daily quizzes and assignments:
+
+**Day 1: Introduction to React and Quiz**
+*Session 1: 2 hours
+- Welcome To NoNAcademy
+- Introduction to React and its importance.
+- React Prerequisites
+- Setting up a development environment (Node.js, npm, and a code editor).
+- Creating a "Hello World" React app.
+- Understanding JSX (JavaScript XML) and how it works.
+- Basics of components and props.
+- Quiz: A short quiz to test understanding.
+
+**Day 2: React Fundamentals and Assignment**
+*Session 2: 2 hours*
+- Core Concepts of components and props.
+- Class Vs Functional Components
+- State and lifecycle in React.
+- Event handling in React.
+- Conditional rendering.
+- Lists and keys.
+- Quiz: A short quiz to test understanding.
+
+
+**Day 3: React Router and Navigation and Quiz**
+*Session 3: 2 hours*
+- Controlled components and forms.
+- Introduction to React Router.
+- Setting up routing in a React application.
+- Creating multiple pages.
+- Route parameters and query strings.
+- Navigation and links.
+- Assignment: Participants create a to-do list application.
+
+**Day 4: State Management , Design and Design FrameWorks Assignment**
+*Session 4: 2 hours*
+- Understanding state management in React.
+- Introduction To Design In React
+- Designing With Pure CSS
+- Designing With Frameworks
+- Intro To Bootstrap,Tailwind , Material UI(Basic Not To Cover At all)
+- Intro To Styled Components.
+- Assignment: Participants enhance their to-do list application with Different Design  styles or use frameworks.
+
+**Day 5: Working with APIs and Axios and Quiz**
+*Session 5: 2 hours*
+- Making API requests in a React application.
+- Fetching data with the `fetch` API.
+- Axios for more advanced API requests.
+- Handling API responses and errors.
+- Building a simple data-driven React app.
+- Quiz: A short quiz to test understanding.
+
+**Day 6: Advanced React Topics and Assignment**
+*Session 6: 2 hours*
+- React Hooks: `useEffect`, `useState`, and custom hooks.
+- Introduction to Context API for state management.
+- Context API vs. props drilling.
+- Implementing global state using Context.
+- Consumer and Provider components.
+- Intro To useReducer() -- Just simple intro 
+- Introducing third-party libraries (e.g., react-query, react-router-dom).
+- Assignment: Participants create an interactive application using hooks and context.
+
+**Day 7: Final Project, Code Reviews, and Best Practices**
+*Session 7: 2 hours*
+- Develope An Intermidiate Level Project For Demonstrating to The user.
+- Participants work on intermediate-level projects to apply what they've learned.
+- Instructor-led code reviews and feedback.
+- Best practices in React development.
+- Discussing advanced topics and further resources for self-improvement.
+
+Including daily quizzes and assignments can enhance the learning experience and provide participants with practical experience. These assessments can also help you gauge their progress and understanding of the material. 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
